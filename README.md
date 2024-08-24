@@ -1,2 +1,1 @@
-# WORD-COUNTER
-This is  Word Counter protect are interested..
+"# CLI-Number-Guessing-Game." 
